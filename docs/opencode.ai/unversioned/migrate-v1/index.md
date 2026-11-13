@@ -14,10 +14,10 @@ OpenCode 1 和 OpenCode 2 都使用 `opencode` 命令，默认不再并排安装
 V2 有三处有意的破坏性变更：
 
 - [插件](../build/plugins/migrate-v1/index.md)使用新的插件 API。
-- [服务器 API 和客户端](服务器-api-和客户端)有了新契约。
+- [服务器 API 和客户端](#服务器-api-和客户端)有了新契约。
 - [终端客户端配置](../cli/config/index.md)从分层的 `tui.json(c)` 文件迁移到一个全局 `cli.json` 文件（自动迁移）。
 
-这些区域之外的受支持 V1 功能旨在保持与 V1 兼容。V1 schema 接受的部分字段从未有过 V2 对应物，会被有意忽略；这些字段列在[接受但不支持的字段](接受但不支持的字段)下。
+这些区域之外的受支持 V1 功能旨在保持与 V1 兼容。V1 schema 接受的部分字段从未有过 V2 对应物，会被有意忽略；这些字段列在[接受但不支持的字段](#接受但不支持的字段)下。
 
 `.opencode/` 中现有的受支持服务器配置字段、agent 定义、命令定义、技能及其他文件应当无需改动即可继续工作。如果本指南描述的受支持行为在 V2 中失效，应将其视为兼容性 bug，而不是预期的迁移要求。
 
@@ -460,7 +460,7 @@ V1 `mode/` 或 `modes/` 目录下的文件表示主 agent。把它们移动到 `
 - 在 JSON 配置中出现时把 `prompt` 重命名为 `system`；文件正文不需要 `system` 字段。
 - 把 `disable` 重命名为 `disabled`，`permission` 重命名为 `permissions`。
 - 把 `model` 和 `variant` 组合为 `provider/model#variant`。
-- 按上文[所示](agent-和模式)在模型变体上设置采样和 provider 选项。
+- 按上文[所示](#agent-和模式)在模型变体上设置采样和 provider 选项。
 
 V1 agent frontmatter 已弃用，但仍会自动转换。每个文件都按一种格式读取。使用了 `permissions`、`request`、`system` 或 `disabled` 中任意一项的文件按 V2 读取，其中的 V1 字段（如 `name`、`tools`、`permission` 或 `temperature`）会被忽略并在日志中警告。其他使用 V1 字段的文件按 V1 读取。请一次性转换文件的 frontmatter，不要混用两种格式。参见 [Agent](../agents/index.md)。
 

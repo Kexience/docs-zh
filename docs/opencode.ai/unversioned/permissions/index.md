@@ -222,7 +222,7 @@ Shell 权限检查使用 OpenCode 内置的 shell 扫描器，覆盖 Bash、Zsh�
 | `summary`    | 拒绝所有操作                                                                    |
 | `compaction` | 保留基础策略                                                                    |
 
-由于默认规则不会对 `external_directory` 触发询问，Location 和 worktree 之外的读取和编辑会直接进行、不弹出提示。如[目录](目录)所示，添加一条 `external_directory` 的 `ask` 或 `deny` 规则，可以恢复提示或阻止外部访问。
+由于默认规则不会对 `external_directory` 触发询问，Location 和 worktree 之外的读取和编辑会直接进行、不弹出提示。如[目录](#目录)所示，添加一条 `external_directory` 的 `ask` 或 `deny` 规则，可以恢复提示或阻止外部访问。
 后续追加的全局规则和 agent 规则会覆盖这些默认值。
 
 ## Agent

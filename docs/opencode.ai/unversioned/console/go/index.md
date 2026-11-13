@@ -87,11 +87,11 @@ Go 在 OpenCode 中的工作方式与其他 provider 一样。你订阅 OpenCode
 - **LongCat 2.5 Free：** 在 **Regions** 下选择 **Global**。
 - **Muse Spark 1.3 Contributor 与 Muse Spark 1.2 Contributor：** 开启 **Allow paid endpoints that train on request data**。
 
-每个模型的训练与保留条款请参阅[隐私](隐私)。
+每个模型的训练与保留条款请参阅[隐私](#隐私)。
 
 ## 用额度支付
 
-Owner 和 admin 可以用工作区的额度支付 Go 的费用，包括续订和升级。在订阅时选择 **Credit** 作为支付方式，或稍后在 **Manage subscription** 中选择。它与 [Extra Usage](超出限额后的用量) 是分开的，后者用于支付超出限额的用量。
+Owner 和 admin 可以用工作区的额度支付 Go 的费用，包括续订和升级。在订阅时选择 **Credit** 作为支付方式，或稍后在 **Manage subscription** 中选择。它与 [Extra Usage](#超出限额后的用量) 是分开的，后者用于支付超出限额的用量。
 
 - 全部价格从你的额度余额中扣除。如果余额不足，可以先充值。
 - 续订会在计费周期结束时从额度中扣除价格。如果额度不够，Go 会保持活跃，续订会在周期结束后第 1、3、7 天重试，并在充入足够额度后立即重试。如果最后一次重试失败，Go 会终止。
