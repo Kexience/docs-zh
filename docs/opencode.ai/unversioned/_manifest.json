@@ -318,7 +318,7 @@
     },
     {
       "url": "https://opencode.ai/docs/",
-      "local_path": "index.md",
+      "local_path": "README.md",
       "status": "ok",
       "source_hash": "sha256:6cdeb5ff3b59930bf426f4c563e8e5bcb4135c56b8a63ce47b787c533f3c7606"
     },

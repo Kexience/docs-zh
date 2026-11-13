@@ -94,7 +94,7 @@ OpenCode 内置了对众多 LLM provider 的支持。你可以在 [TUI 中](cli/
 以下目录按官方站点的导航分组编排，共 68 页；未收录的页面已注明。
 
 ## 文档
-- [简介](./index.md)
+- [简介](README.md)
 - [配置](./config/index.md)
 - [从 V1 迁移](./migrate-v1/index.md)
 - [故障排查](./troubleshooting/index.md)
