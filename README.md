@@ -28,6 +28,7 @@ translation_version: 1
 
 | 站点 | 文档版本 | 页数 | 状态 |
 |---|---|---|---|
+| [java.testcontainers.org](docs/java.testcontainers.org/unversioned/README.md) | unversioned（上游 2.0.5） | 102 | 已同步 |
 | [openspec.dev](docs/openspec.dev/unversioned/index.md) | unversioned（上游 2.0） | 21 | 已同步 |
 
 完整列表见 [INDEX.md](INDEX.md)。

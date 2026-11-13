@@ -1,0 +1,730 @@
+{
+  "host": "java.testcontainers.org",
+  "doc_version": "unversioned",
+  "upstream_version": "2.0.5",
+  "translation_version": 1,
+  "updated_at": "2026-11-13T12:18:06+08:00",
+  "source": "https://java.testcontainers.org/sitemap.xml",
+  "counts": {
+    "total": 102,
+    "translated": 102,
+    "failed": 0
+  },
+  "updated_this_run": 102,
+  "pages": [
+    {
+      "url": "https://java.testcontainers.org/",
+      "local_path": "README.md",
+      "status": "translated",
+      "source_hash": "sha256:66e0191d946ed0ba73c1b847c6b3620016223f1963b05d4a40f76347e43159b7",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/contributing/",
+      "local_path": "contributing/index.md",
+      "status": "translated",
+      "source_hash": "sha256:9ef6de0220879f305aad410a7148cb167493cb15e6c641fe70904998e0c43358",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/contributing_docs/",
+      "local_path": "contributing_docs/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1ba89268504d87d7dd080dafd52db9a2a87a81124cfbc337867435dca841a46c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/error_missing_container_runtime_environment/",
+      "local_path": "error_missing_container_runtime_environment/index.md",
+      "status": "translated",
+      "source_hash": "sha256:46d1a845fa9c9f287f44a4e610a0b95784c03981aaf707ce0fda0cee590b4af8",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/examples/",
+      "local_path": "examples/index.md",
+      "status": "translated",
+      "source_hash": "sha256:d276ee561615e30ce83327ce9a833beaf51731e7e6e41c99ed9275f5cdc76b9a",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/advanced_options/",
+      "local_path": "features/advanced_options/index.md",
+      "status": "translated",
+      "source_hash": "sha256:a38f96d03e6e7790e6ee194d17b8aca19193ba914601972ea9e0d37e9f31876c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/commands/",
+      "local_path": "features/commands/index.md",
+      "status": "translated",
+      "source_hash": "sha256:0d48fbeb29d5ce9b63f6519d19eb23f3eec838a3600b348c742bf8e06a7863bb",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/configuration/",
+      "local_path": "features/configuration/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1c6c825bfd3cdb29f84b1783ba3c5608a6492409c8a6bc6f389679f98b4c5bc6",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/container_logs/",
+      "local_path": "features/container_logs/index.md",
+      "status": "translated",
+      "source_hash": "sha256:60e1c70ef73ce34ae565bf8e9dfe481b630d66d71e5e809d141db03188e6e619",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/creating_container/",
+      "local_path": "features/creating_container/index.md",
+      "status": "translated",
+      "source_hash": "sha256:c35116e895f41a3cec10ef3d3947847ec0db1e49261350f0256b6e04eac1f4af",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/creating_images/",
+      "local_path": "features/creating_images/index.md",
+      "status": "translated",
+      "source_hash": "sha256:46ce3a543bba293485c090e09fc165960d00771bc63554a1456e638064c8a559",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/files/",
+      "local_path": "features/files/index.md",
+      "status": "translated",
+      "source_hash": "sha256:571559ad936c300ca1664a2ba3e4a05dd2a3f0c2cd39b211aa604ab9095c5543",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/image_name_substitution/",
+      "local_path": "features/image_name_substitution/index.md",
+      "status": "translated",
+      "source_hash": "sha256:56283691b1cc32103a6b260d9ff59cc9769cf0a9c9fa2673307a9c7cb2a9258c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/jib/",
+      "local_path": "features/jib/index.md",
+      "status": "translated",
+      "source_hash": "sha256:18d096b44050d62d745b9f8d0a37203618feeee82ea95f0370db705082d2c578",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/networking/",
+      "local_path": "features/networking/index.md",
+      "status": "translated",
+      "source_hash": "sha256:3ee557fe333eb76551aaf78cf16c1137b186bf37a5d0f752614a53814bcf2c46",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/reuse/",
+      "local_path": "features/reuse/index.md",
+      "status": "translated",
+      "source_hash": "sha256:9423efd573c807d43e1fc495d98d93635eb5fcb3601b013280fad518c9e78b0f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/features/startup_and_waits/",
+      "local_path": "features/startup_and_waits/index.md",
+      "status": "translated",
+      "source_hash": "sha256:5df4a367e1654a400e9fa35f3d47d9d6dfa0c3fed6b659d8e65e048d898189be",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/getting_help/",
+      "local_path": "getting_help/index.md",
+      "status": "translated",
+      "source_hash": "sha256:c4fe1b35db87161eed660b0c3ec8f07b50d8a3fefdc2abcbdb0f0bfb34658da5",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/jitpack_dependencies/",
+      "local_path": "jitpack_dependencies/index.md",
+      "status": "translated",
+      "source_hash": "sha256:ee08080e40d27680016bf9b3336f1eaabaf62da2b8874341f2a711440fa27c11",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/activemq/",
+      "local_path": "modules/activemq/index.md",
+      "status": "translated",
+      "source_hash": "sha256:76a986e9de628dcd0153ca021d16b1d2f14a68ae8e3e38bbf3f692d34a64ee1d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/azure/",
+      "local_path": "modules/azure/index.md",
+      "status": "translated",
+      "source_hash": "sha256:56bb8eb062795e46d7356c8a34a829cd16513177ae0bd18f6b06575e5efc70e2",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/chromadb/",
+      "local_path": "modules/chromadb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:21aba92c9b6ca2c9beab6c0269c109d3f82ecc48ec8173a29c19b5e9e381e5f0",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/consul/",
+      "local_path": "modules/consul/index.md",
+      "status": "translated",
+      "source_hash": "sha256:9382433bca28d1416387843c444790e31fd8e2a739904e4d39f8da4ac298139d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/",
+      "local_path": "modules/databases/index.md",
+      "status": "translated",
+      "source_hash": "sha256:be204b63a8951a1c87aae18afbb29497c691c2466fb29dde68d72783b7aa0cec",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/cassandra/",
+      "local_path": "modules/databases/cassandra/index.md",
+      "status": "translated",
+      "source_hash": "sha256:a73b4305b7317599fb65f5a0b8f20a9493557822067d966652f0fb6e8794efbd",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/clickhouse/",
+      "local_path": "modules/databases/clickhouse/index.md",
+      "status": "translated",
+      "source_hash": "sha256:5ee7154726693f3306d80e239e6df0c0c13301b96f996d717a36c559bd51fa1d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/cockroachdb/",
+      "local_path": "modules/databases/cockroachdb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:4091d9a3aad1d2ce7d4c17cba459fcbe47a76bd09c12e7705217408f16bc3a51",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/couchbase/",
+      "local_path": "modules/databases/couchbase/index.md",
+      "status": "translated",
+      "source_hash": "sha256:a8e604321e1cba9de488096a1984752c5e2676e18c95ffbc57e6532ef2583514",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/cratedb/",
+      "local_path": "modules/databases/cratedb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:dd2298b677cdad3a32c82bb13856c3a7b13dc343e1bfc14437ecf702432ceab9",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/databend/",
+      "local_path": "modules/databases/databend/index.md",
+      "status": "translated",
+      "source_hash": "sha256:2a05c33a452da7cbe76dd77327740237c957a3f7540ef4e16ceb65ec72a6a268",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/db2/",
+      "local_path": "modules/databases/db2/index.md",
+      "status": "translated",
+      "source_hash": "sha256:84a4e02f1b5280b31687abc736dd111810346edd0e19a0243ae61896c7dec713",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/influxdb/",
+      "local_path": "modules/databases/influxdb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:0749131e7f0aedde4561cb55d38bbf07c1254fee0a2cd752f9d77ea9fa33d6a9",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/jdbc/",
+      "local_path": "modules/databases/jdbc/index.md",
+      "status": "translated",
+      "source_hash": "sha256:939470727f84e37a2c3e5673991b2653c263e0a93d8c3892e937b1d84f1ba5b6",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/mariadb/",
+      "local_path": "modules/databases/mariadb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:acb85264fc475879448b4c7f370421091de14eef1ffd6245123ac0a52ed004e5",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/mongodb/",
+      "local_path": "modules/databases/mongodb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f2f0b1d059f9aebec937e3a862b776203ff2d0a466fa0784fa036a0ff206ffdd",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/mssqlserver/",
+      "local_path": "modules/databases/mssqlserver/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1d06145d684fe7cba40c0395e22a948879029222167842b444f60ac8f5cbc942",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/mysql/",
+      "local_path": "modules/databases/mysql/index.md",
+      "status": "translated",
+      "source_hash": "sha256:6ed875165f2eacc524bc0353a0cd0c0b74123fc2539c37524029f5253c48ffb0",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/neo4j/",
+      "local_path": "modules/databases/neo4j/index.md",
+      "status": "translated",
+      "source_hash": "sha256:5ab192434472e2b1532fca3c280db80932abc0b7aa997296be523da899389519",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/oceanbase/",
+      "local_path": "modules/databases/oceanbase/index.md",
+      "status": "translated",
+      "source_hash": "sha256:6812f876f0a30055f02def6b44838556bb6fc75701226793688fd84dea13af69",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/oraclefree/",
+      "local_path": "modules/databases/oraclefree/index.md",
+      "status": "translated",
+      "source_hash": "sha256:75fb1d47f14cf69e89385ef94498db81a8c9cf77d5eea2e473349f67d3b06b77",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/oraclexe/",
+      "local_path": "modules/databases/oraclexe/index.md",
+      "status": "translated",
+      "source_hash": "sha256:9f708cd4148a32695f8ea3eede2f3b36c45c7edab1f5a2a45bedde8639f22e4e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/orientdb/",
+      "local_path": "modules/databases/orientdb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:cdf58a676318c8a1fe0f37f8691466535a50ca5fa610bda8faf2c4a4f07548bf",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/postgres/",
+      "local_path": "modules/databases/postgres/index.md",
+      "status": "translated",
+      "source_hash": "sha256:b27ab526197c7cd8a55cd43522aa14e1a3e762e1c4214443a31db6f27a7bd047",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/presto/",
+      "local_path": "modules/databases/presto/index.md",
+      "status": "translated",
+      "source_hash": "sha256:6881096f5bcfc5b51f0b2491d01eec3dc9b841733433ff108896b206b58b0e0c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/questdb/",
+      "local_path": "modules/databases/questdb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:c639afc9f0d3e431e8dbe74f19a8dc99c66a5cb6d47a36c7e6bbd27c89e38d15",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/r2dbc/",
+      "local_path": "modules/databases/r2dbc/index.md",
+      "status": "translated",
+      "source_hash": "sha256:c22a040a3caf5552f9b28a3353b75dfe3f1ffb1ab060e03c233ab1af6720a127",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/scylladb/",
+      "local_path": "modules/databases/scylladb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:d7ec613f2e371b3172ab2fbf8cecbdab7d0ce985b118e052ba3d1ad7ba487bb1",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/tidb/",
+      "local_path": "modules/databases/tidb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:a902c18dec92a72bfbab21cc876905db34c674f9c3abe8b904dc2be807598c21",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/timeplus/",
+      "local_path": "modules/databases/timeplus/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1b7a27ee730aaa8e3e81aaef6772c032bb3be0a6939ce0dfc5acd3f27138b24f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/trino/",
+      "local_path": "modules/databases/trino/index.md",
+      "status": "translated",
+      "source_hash": "sha256:2919cd48a78a8a471d0665b96411afd06c6736fd5eb1c6afdca7e0fb5d51d658",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/databases/yugabytedb/",
+      "local_path": "modules/databases/yugabytedb/index.md",
+      "status": "translated",
+      "source_hash": "sha256:92d6f1cd6b7fa59bd64e69774fd105c8f034509a1182ae66ebe0993f522a028a",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/docker_compose/",
+      "local_path": "modules/docker_compose/index.md",
+      "status": "translated",
+      "source_hash": "sha256:6de93a05dacef9db3b0ab3be17fd895ba7939015bb2d537b43850025904af081",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/docker_mcp_gateway/",
+      "local_path": "modules/docker_mcp_gateway/index.md",
+      "status": "translated",
+      "source_hash": "sha256:8017fcf56e453fd1c914e536c4a8336bcdd52122be67a53c1f152f84e21fc42b",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/docker_model_runner/",
+      "local_path": "modules/docker_model_runner/index.md",
+      "status": "translated",
+      "source_hash": "sha256:37323fc995140caff1d5387af33a06d9bdb755317aeb9dc90c558056e3e8642a",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/elasticsearch/",
+      "local_path": "modules/elasticsearch/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e68a1febd4c3a1b76eaf1b22a415ace060e3d6d9876e44b699b649b1589e2bda",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/gcloud/",
+      "local_path": "modules/gcloud/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1f40e4f48d358a86b0bec99a764eefe2c956c94e21f6c79aebef3a608e6adc87",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/grafana/",
+      "local_path": "modules/grafana/index.md",
+      "status": "translated",
+      "source_hash": "sha256:b82882eb024f044383d7bcf93d2f8a507f65033d4fc4a12c334dd0fe49d1834e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/hivemq/",
+      "local_path": "modules/hivemq/index.md",
+      "status": "translated",
+      "source_hash": "sha256:dfc0cc6ccadcb05a9cd0500f64c01b0c063b548c1dab4407cf58622470657a0c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/k3s/",
+      "local_path": "modules/k3s/index.md",
+      "status": "translated",
+      "source_hash": "sha256:12fa3222d90c06903c2d3fb2c3940d41a5c2e8f6c4b5295e86eaa8bf73c90591",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/k6/",
+      "local_path": "modules/k6/index.md",
+      "status": "translated",
+      "source_hash": "sha256:eeea15a1338cbe1cba203ad9353d4494d793a3e51197434de3bd2fa935686913",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/kafka/",
+      "local_path": "modules/kafka/index.md",
+      "status": "translated",
+      "source_hash": "sha256:69d507e5c1d19c235a82878f4c95050c3d4613e0b66b2c801b366a3f72a569ae",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/ldap/",
+      "local_path": "modules/ldap/index.md",
+      "status": "translated",
+      "source_hash": "sha256:dd640b44dca2775141ae95f6dba24461ac007089bd1b3c40eac722a7b14f6fa9",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/localstack/",
+      "local_path": "modules/localstack/index.md",
+      "status": "translated",
+      "source_hash": "sha256:902093b5f9c18c7f2285537808561598d52613c6610a0d69f38eda0bc62f5ce7",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/milvus/",
+      "local_path": "modules/milvus/index.md",
+      "status": "translated",
+      "source_hash": "sha256:57bde3e0e06768fc2943e3a6bf38922a4228848ddde0519793d1ca33cbba129f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/minio/",
+      "local_path": "modules/minio/index.md",
+      "status": "translated",
+      "source_hash": "sha256:6b035daabed761a211bce38f34ebe0078c34a2af678eb71e3336bf1231787bd4",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/mockserver/",
+      "local_path": "modules/mockserver/index.md",
+      "status": "translated",
+      "source_hash": "sha256:b2b97f14a236c6bfe58faf8d9ac26512b5e39e96c71e15bab3b1b2be51cda5cc",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/nginx/",
+      "local_path": "modules/nginx/index.md",
+      "status": "translated",
+      "source_hash": "sha256:96d6d6c08351a95b66f1c6b1f54332a65c2fa82b5b330286d26f768479df732e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/ollama/",
+      "local_path": "modules/ollama/index.md",
+      "status": "translated",
+      "source_hash": "sha256:0d547e077cdf2bf41821c1ff6654c77d938d6ed18531ac247a37a52d5f91aacd",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/openfga/",
+      "local_path": "modules/openfga/index.md",
+      "status": "translated",
+      "source_hash": "sha256:a949ee51f6953b942408fe2601d3ce02a4fb5b1cb23c25d86011c957af0fc042",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/pinecone/",
+      "local_path": "modules/pinecone/index.md",
+      "status": "translated",
+      "source_hash": "sha256:68496f1ddcba2fb9b9070f9f4b419b67467c902216c382f470c4c9385f0afb7f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/pulsar/",
+      "local_path": "modules/pulsar/index.md",
+      "status": "translated",
+      "source_hash": "sha256:550e7d73729dfc3ccb7e1901719a98c1e823275d213df7b67dac453dfd60cd1c",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/qdrant/",
+      "local_path": "modules/qdrant/index.md",
+      "status": "translated",
+      "source_hash": "sha256:631edbab146e55d113e95fe99cf821e9214fdbb454cd7a501888dc9bb6d7ed3b",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/rabbitmq/",
+      "local_path": "modules/rabbitmq/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e57bb8d4b4dcb792baeab172fc1a4149f7f933f724e26eb3d757d753577d66fe",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/redpanda/",
+      "local_path": "modules/redpanda/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f2f695759de8c2159d40047b1c0711be19daef54daf8bd0ce5e59a4163152d18",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/solace/",
+      "local_path": "modules/solace/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e6faaa7b2573404fcb17b5a713ff0159fb94a994b4cce7a3a7e16c2ce80ada9d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/solr/",
+      "local_path": "modules/solr/index.md",
+      "status": "translated",
+      "source_hash": "sha256:93feadc42c72c0c8904e6339e36c6b2aaaee7aed94019d87dcd4861690ba40f9",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/toxiproxy/",
+      "local_path": "modules/toxiproxy/index.md",
+      "status": "translated",
+      "source_hash": "sha256:91d0b64fefe1de077def44ffc4673ff426f47408e3da21e4e8087c08e49ca61f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/typesense/",
+      "local_path": "modules/typesense/index.md",
+      "status": "translated",
+      "source_hash": "sha256:de3d7be171eb70bd7585b1f1cc0d5057809297139911215654a1b8c4f9bcfb82",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/vault/",
+      "local_path": "modules/vault/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f4d4b2afb2d8d953dcdaded8b60513483e68b528f82c8a8fd4194ff24ca5b724",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/weaviate/",
+      "local_path": "modules/weaviate/index.md",
+      "status": "translated",
+      "source_hash": "sha256:985cd23ab511dcf18c015fc233b9b6500f42f441ca8c0a5bdadc71c07a232c35",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/modules/webdriver_containers/",
+      "local_path": "modules/webdriver_containers/index.md",
+      "status": "translated",
+      "source_hash": "sha256:50be66621a8d140b8e349b9d99e5a2ffdd6a5e84fac9e784707ad1f095f18e03",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/quickstart/junit_4_quickstart/",
+      "local_path": "quickstart/junit_4_quickstart/index.md",
+      "status": "translated",
+      "source_hash": "sha256:53836cf48f4986c656616212783a246f495c6f5adb059eaffe48e74b7edf9d26",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/quickstart/junit_5_quickstart/",
+      "local_path": "quickstart/junit_5_quickstart/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e885c28e65d81056a96e110f765ce12b162750eadf10bf385e45e714ca42e0c5",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/quickstart/spock_quickstart/",
+      "local_path": "quickstart/spock_quickstart/index.md",
+      "status": "translated",
+      "source_hash": "sha256:62f0d7ca5437f9c3448635c481768eadd82dab9ab8773e5f5cc95caa697c435b",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/",
+      "local_path": "supported_docker_environment/index.md",
+      "status": "translated",
+      "source_hash": "sha256:cbb73e8aee598c53153d0ee39246a297e13c4c17863fc83e2b537a38f0052499",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/aws_codebuild/",
+      "local_path": "supported_docker_environment/continuous_integration/aws_codebuild/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f1693c4181c764d3cb0c5ee3cd64b9498f2ace686ef0c89373e65956413a4ff3",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/bitbucket_pipelines/",
+      "local_path": "supported_docker_environment/continuous_integration/bitbucket_pipelines/index.md",
+      "status": "translated",
+      "source_hash": "sha256:54722e74daba171117812c27997c5c90610581eb7c44681f13564719f56cb025",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/circle_ci/",
+      "local_path": "supported_docker_environment/continuous_integration/circle_ci/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f7548b01658d211afddbe60c92f63cb6f4d359f85aae935c0a3e501bb165767e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/concourse_ci/",
+      "local_path": "supported_docker_environment/continuous_integration/concourse_ci/index.md",
+      "status": "translated",
+      "source_hash": "sha256:b69b096bb399991fc183505e09ec75154f800780279ab1b5ccaabc4613d93dda",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/dind_patterns/",
+      "local_path": "supported_docker_environment/continuous_integration/dind_patterns/index.md",
+      "status": "translated",
+      "source_hash": "sha256:dd60a268c9afc9c2e7ad6d643e403254c608d91037b9056d75d6a5ee7c500352",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/drone/",
+      "local_path": "supported_docker_environment/continuous_integration/drone/index.md",
+      "status": "translated",
+      "source_hash": "sha256:7b96370b4e31b9b082ced0bcf27f8b714c1b66fd3dc2ed98deac33ddd228d63d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/gitlab_ci/",
+      "local_path": "supported_docker_environment/continuous_integration/gitlab_ci/index.md",
+      "status": "translated",
+      "source_hash": "sha256:024f9df17de9a41c79237ae5ae65d5038c0e43b70258cecf7d4deda593a4cf04",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/tekton/",
+      "local_path": "supported_docker_environment/continuous_integration/tekton/index.md",
+      "status": "translated",
+      "source_hash": "sha256:7fef21d89223851a1f5e237fd4f379f023dc0a5ccfc21c7bd3069e04c2feef9e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/continuous_integration/travis/",
+      "local_path": "supported_docker_environment/continuous_integration/travis/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e9d19990ae2b4a9543648c7dd364b475daeb67ace8dcdcda81343a08ddf65f0b",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/image_registry_rate_limiting/",
+      "local_path": "supported_docker_environment/image_registry_rate_limiting/index.md",
+      "status": "translated",
+      "source_hash": "sha256:eb68bfc7a771ddfd3d153c01d033132ca74ead9615814e18caee376c23373d8e",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/logging_config/",
+      "local_path": "supported_docker_environment/logging_config/index.md",
+      "status": "translated",
+      "source_hash": "sha256:0186903b50e1b1ce711c24185fcef38a6dcb996d0a6941c212b9c56cbd778972",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/supported_docker_environment/windows/",
+      "local_path": "supported_docker_environment/windows/index.md",
+      "status": "translated",
+      "source_hash": "sha256:e3a139ce146f912ef9d62993001a5c86899b16907d8fbf7491124f8b623f8282",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/test_framework_integration/external/",
+      "local_path": "test_framework_integration/external/index.md",
+      "status": "translated",
+      "source_hash": "sha256:bcfb64107b5016e2a317c002eb5805ad2171ef03177f23b05a7af4301ff7ffda",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/test_framework_integration/junit_4/",
+      "local_path": "test_framework_integration/junit_4/index.md",
+      "status": "translated",
+      "source_hash": "sha256:bec0b7fc5733c57e916d96a87473c990756db94b36c41368795498799903872f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/test_framework_integration/junit_5/",
+      "local_path": "test_framework_integration/junit_5/index.md",
+      "status": "translated",
+      "source_hash": "sha256:f70da5dad53b0f69efbc8b66359c992581a84f259f3e507020593ceec6ca43c6",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/test_framework_integration/manual_lifecycle_control/",
+      "local_path": "test_framework_integration/manual_lifecycle_control/index.md",
+      "status": "translated",
+      "source_hash": "sha256:216869773878b3bba44e75a5c273144de72d6ecd38a12f1b79667ae32fa773a7",
+      "translation_version": 1
+    },
+    {
+      "url": "https://java.testcontainers.org/test_framework_integration/spock/",
+      "local_path": "test_framework_integration/spock/index.md",
+      "status": "translated",
+      "source_hash": "sha256:1ac13d90a1808eb0ed6d650fae16a710d060ef43b84ab9153c9b725dda9c6a04",
+      "translation_version": 1
+    }
+  ]
+}
