@@ -1,0 +1,163 @@
+{
+  "host": "openspec.dev",
+  "doc_version": "unversioned",
+  "upstream_version": "2.0",
+  "translation_version": 1,
+  "updated_at": "2026-11-13T10:12:53+08:00",
+  "source": "https://openspec.dev/llms-full.txt",
+  "counts": {
+    "total": 21,
+    "translated": 21,
+    "failed": 0
+  },
+  "updated_this_run": 0,
+  "pages": [
+    {
+      "url": "https://openspec.dev/docs/cli",
+      "local_path": "docs/cli.md",
+      "status": "translated",
+      "source_hash": "sha256:9852474beab52bac9b6afbd29fca866b718fa415b85d7b5e80afcdd39653ac13",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/configuration",
+      "local_path": "docs/configuration.md",
+      "status": "translated",
+      "source_hash": "sha256:e0b003d631b0f4a351a99064154a676387049c76ca45665a90c188f4cfe86342",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/configuration/change-metadata",
+      "local_path": "docs/configuration/change-metadata.md",
+      "status": "translated",
+      "source_hash": "sha256:4e6d3ae3981d5f9b151cd656be44137f15d0f2eb6f2901175602788e7b5f78cf",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/configuration/config-json",
+      "local_path": "docs/configuration/config-json.md",
+      "status": "translated",
+      "source_hash": "sha256:8ac3f6a76640019e10263ebb63d2feba045fb5157f9994ea45eb8406cd739695",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/configuration/config-yaml",
+      "local_path": "docs/configuration/config-yaml.md",
+      "status": "translated",
+      "source_hash": "sha256:6c8ae1caa6e56e609be968f60cc7cb6b653c11bcaa92f8e2b4e277d1c2f63e23",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/customize",
+      "local_path": "docs/customize.md",
+      "status": "translated",
+      "source_hash": "sha256:48edb804eb822b701eba1699b245891088d514774ab9e5dbfd31970230829070",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/customize-schemas",
+      "local_path": "docs/customize-schemas.md",
+      "status": "translated",
+      "source_hash": "sha256:59ff4a3dd54ed8bde7ea5ada4bdf21768f07762b768cc970867f5fbd0ce89574",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/glossary",
+      "local_path": "docs/glossary.md",
+      "status": "translated",
+      "source_hash": "sha256:eab361043e82b59cc37e46b472ec01b1f447a6f65f7b084dbf11a8361bf8e34d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/installation",
+      "local_path": "docs/installation.md",
+      "status": "translated",
+      "source_hash": "sha256:f792fd750d39ee14054ffa045f1b847da81f4abed9f72a989e94a9c4a4eabe46",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/profiles",
+      "local_path": "docs/profiles.md",
+      "status": "translated",
+      "source_hash": "sha256:9f3b7d9addca40a0077f9ff107b2599ff3ae833b1ea1a73e9026e3ef2d53a1bc",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/project-config",
+      "local_path": "docs/project-config.md",
+      "status": "translated",
+      "source_hash": "sha256:9cd2658877bf2e3454f71c70814ab4c3e72e0b4abe58be9563728de5a181577a",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/quickstart",
+      "local_path": "docs/quickstart.md",
+      "status": "translated",
+      "source_hash": "sha256:16d0e4662ac3c2e8543143cb05cdb89f8cca6106c7ff73964894ce1475f28f1d",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/schemas",
+      "local_path": "docs/schemas.md",
+      "status": "translated",
+      "source_hash": "sha256:639b398b6a0a2d5435a462f3e0e7b44a890e5bcbdb49c208273971ee86b09689",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/schemas/schema-yaml",
+      "local_path": "docs/schemas/schema-yaml.md",
+      "status": "translated",
+      "source_hash": "sha256:55334e14e1271e9f13de4e1b01078a00c73652c793770b371f79f70e91b3c44f",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/schemas/spec-driven",
+      "local_path": "docs/schemas/spec-driven.md",
+      "status": "translated",
+      "source_hash": "sha256:2387cb7e790fb83980405e82723eeda29797e2096e83cc726ea7557e95593dc1",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/setup",
+      "local_path": "docs/setup.md",
+      "status": "translated",
+      "source_hash": "sha256:c86caf9e4413e9b107b24d44242f7544e7f3727917f5688f3fcfb6c0745300ea",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/skills",
+      "local_path": "docs/skills.md",
+      "status": "translated",
+      "source_hash": "sha256:ff2d31affad698cd6196725328fb001f7679f5138527c0f7b5864f4bd80fc898",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/stores",
+      "local_path": "docs/stores.md",
+      "status": "translated",
+      "source_hash": "sha256:372b7ce0044778e483449a353260aba0a916b834e07e36e1724ae0cc5079e12a",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/supported-tools",
+      "local_path": "docs/supported-tools.md",
+      "status": "translated",
+      "source_hash": "sha256:0c28f7122f68087e3f04c0058249208966c69524094d4705538bfd1000e31a57",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/upgrade-to-2",
+      "local_path": "docs/upgrade-to-2.md",
+      "status": "translated",
+      "source_hash": "sha256:9a7c9ae016673344279ac09d44a69729fe01001be3bc2dd392723df73694cd58",
+      "translation_version": 1
+    },
+    {
+      "url": "https://openspec.dev/docs/worksets",
+      "local_path": "docs/worksets.md",
+      "status": "translated",
+      "source_hash": "sha256:12a13d53479153ce89e204f1b5cd7848ac1c9ec3f0319e8f68c29087c85facca",
+      "translation_version": 1
+    }
+  ]
+}

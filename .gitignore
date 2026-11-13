@@ -1,0 +1,17 @@
+# 抓取缓存（清洗后的 HTML / llms.txt 快照），可随时重建
+.cache/
+
+# 翻译流水线中间产物（分词后的 prose / 代码块 / 索引）
+.work/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
