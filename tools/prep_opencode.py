@@ -77,10 +77,31 @@ def chunk(prose, safe):
         cur_len += len(text) + 1
     if cur:
         groups.append(cur)
-    if len(groups) < 2:
+    texts = ["\n".join(lines[g[0][0]:g[-1][1]]) for g in groups]
+    if len(texts) < 2:
+        texts = [prose]
+    # a single section can still exceed the limit: split it at blank lines
+    out = []
+    for t in texts:
+        out.extend(split_paras(t))
+    if len(out) < 2:
         return [(safe, prose)]
-    return [("%s__p%d" % (safe, gi),
-             "\n".join(lines[g[0][0]:g[-1][1]])) for gi, g in enumerate(groups, 1)]
+    return [("%s__p%d" % (safe, i), t) for i, t in enumerate(out, 1)]
+
+
+def split_paras(text):
+    """Split an oversized block at blank lines into <=LIMIT pieces."""
+    if len(text) <= LIMIT:
+        return [text]
+    paras, cur = [], []
+    for para in text.split("\n\n"):
+        if cur and sum(len(p) + 2 for p in cur) + len(para) > LIMIT:
+            paras.append("\n\n".join(cur))
+            cur = []
+        cur.append(para)
+    if cur:
+        paras.append("\n\n".join(cur))
+    return paras
 
 
 def main():
