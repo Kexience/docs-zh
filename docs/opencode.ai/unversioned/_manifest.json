@@ -1,0 +1,428 @@
+{
+  "host": "opencode.ai",
+  "doc_version": "v2",
+  "translation_version": 1,
+  "updated_at": "2026-11-13T21:30:00+08:00",
+  "counts": {
+    "total": 69,
+    "translated": 68,
+    "failed": 1
+  },
+  "pages": [
+    {
+      "url": "https://opencode.ai/docs/agents/",
+      "local_path": "agents/index.md",
+      "status": "ok",
+      "source_hash": "sha256:51dd27e610b4155b9c6a5bdca11e6e7e481e36e87dccfa05f0714f5d598ae3fe"
+    },
+    {
+      "url": "https://opencode.ai/docs/api",
+      "local_path": "api/index.md",
+      "status": "failed",
+      "source_hash": "sha256:e3ebaa16dd9d9b9fc107c42183fb6cf9d22927e1af03dbbdfa0ccc38e4e4ac31",
+      "note": "线上为自动生成的 OpenAPI 参考页（170 操作/500 schema），无 markdown 源，暂跳过"
+    },
+    {
+      "url": "https://opencode.ai/docs/attachments/",
+      "local_path": "attachments/index.md",
+      "status": "ok",
+      "source_hash": "sha256:9102c792d9a9c8cb3762909ad4ed8e6f32623e051cab2f725b23fff01f3c0dd1"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/",
+      "local_path": "build/index.md",
+      "status": "ok",
+      "source_hash": "sha256:55baa17d4b4efee03d0569ee65d1cbcd712bb6ed9e898bd57c28edf8480c68cd"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/client/",
+      "local_path": "build/client/index.md",
+      "status": "ok",
+      "source_hash": "sha256:54a0f18adfb9bb74843e69126da2a13baca7babe8fe8fd700b9c2c273ef10226"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/client/effect/",
+      "local_path": "build/client/effect/index.md",
+      "status": "ok",
+      "source_hash": "sha256:f3b4b1acfe4fbd2bc010dadbfb06843ba9b5998ebf02ef7f60393757c52858e2"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/",
+      "local_path": "build/plugins/index.md",
+      "status": "ok",
+      "source_hash": "sha256:681ef8c90bae67c43b00d13d840588fbb7e9226128e3e85fb098838342893f28"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/cli/",
+      "local_path": "build/plugins/cli/index.md",
+      "status": "ok",
+      "source_hash": "sha256:6f09bda16d3a528b24a3cb67ea9b67044739b8d6b136a2f54852226d87bd5150"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/effect/",
+      "local_path": "build/plugins/effect/index.md",
+      "status": "ok",
+      "source_hash": "sha256:64ac60a31af3c6441760f641ee9e49dfaf0d3b517c11da1224538b89428a89d1"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/effect/rpc/",
+      "local_path": "build/plugins/effect/rpc/index.md",
+      "status": "ok",
+      "source_hash": "sha256:cdd01d7ddc952f3e9391920c53458601ab33850001123f39ce7132c2b3d7974f"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/gui/",
+      "local_path": "build/plugins/gui/index.md",
+      "status": "ok",
+      "source_hash": "sha256:3446119f57563a03759ca16f6aa8c48dce1a17adfc7babf415f965cb6e7e98ea"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/migrate-v1/",
+      "local_path": "build/plugins/migrate-v1/index.md",
+      "status": "ok",
+      "source_hash": "sha256:4f91d15e16a0372843c1ea0d814081546ddee9e1f02611c97517e8d82a279756"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/rpc/",
+      "local_path": "build/plugins/rpc/index.md",
+      "status": "ok",
+      "source_hash": "sha256:dab4e31acc16ea76081ba5c1ad3a6356e861062b5952c6f4f13d2244ac4ba5a5"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/plugins/server/",
+      "local_path": "build/plugins/server/index.md",
+      "status": "ok",
+      "source_hash": "sha256:0750ebdab9ad876774096c1d637366b6cf7c90cfebdc2b7df0a10021d42577a4"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/sdk/",
+      "local_path": "build/sdk/index.md",
+      "status": "ok",
+      "source_hash": "sha256:f07ef149e9fbe8571544d6761aa15581e208e44c8c082b2596cb51d9043194fc"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/sdk/cloudflare/",
+      "local_path": "build/sdk/cloudflare/index.md",
+      "status": "ok",
+      "source_hash": "sha256:c95cc0cd0ae35b4e80af7800256f630a4d27ba602b8f46f1735319f26890ec37"
+    },
+    {
+      "url": "https://opencode.ai/docs/build/sdk/effect/",
+      "local_path": "build/sdk/effect/index.md",
+      "status": "ok",
+      "source_hash": "sha256:243dab2ea2277a8ea90d78aadb5ee94ae80fcba4e281fe49486c9b732e5963af"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/",
+      "local_path": "cli/index.md",
+      "status": "ok",
+      "source_hash": "sha256:21eb6f9805f5f3c4e9f6b1a21e848c6dc134cc1de1b5826275a11248903aa58b"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/acp/",
+      "local_path": "cli/acp/index.md",
+      "status": "ok",
+      "source_hash": "sha256:698af6b5ba3dad2df3d6bd94478504450b69e3962558ee4c5a84ae95ecd49429"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/commands/",
+      "local_path": "cli/commands/index.md",
+      "status": "ok",
+      "source_hash": "sha256:cdc54954aa6cd48a86fabce48209c6836dbf8f242111bd012348df26a236a6c8"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/config/",
+      "local_path": "cli/config/index.md",
+      "status": "ok",
+      "source_hash": "sha256:ee88e96eeb554c139efcf6aa3af589e6fa6706046d409dbe694e62c8370486ef"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/keybinds/",
+      "local_path": "cli/keybinds/index.md",
+      "status": "ok",
+      "source_hash": "sha256:42fc2caa8b88bbae905e6d222c75dcfa67db1ffc0d5af6e7467f3612437f728e"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/plugins/",
+      "local_path": "cli/plugins/index.md",
+      "status": "ok",
+      "source_hash": "sha256:5a79f8dc7591f0862e1c1e6b6956f7e70a29577d008e4d02e88c3af88cd6df9f"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/providers/",
+      "local_path": "cli/providers/index.md",
+      "status": "ok",
+      "source_hash": "sha256:e8dd9e28796d78f03381c89c4dbf28a6a12863064781b77dbd93c32163a8b8f6"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/theme/",
+      "local_path": "cli/theme/index.md",
+      "status": "ok",
+      "source_hash": "sha256:8c5b1b0b057d0e72af2b7b823bd5571d895f26ec1ef0e4171f3f2d979572c540"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/tui/",
+      "local_path": "cli/tui/index.md",
+      "status": "ok",
+      "source_hash": "sha256:a1fa60f217f4077a9cb7820d3feb0e40350160790c6027039c1a4c6039155207"
+    },
+    {
+      "url": "https://opencode.ai/docs/cli/web/",
+      "local_path": "cli/web/index.md",
+      "status": "ok",
+      "source_hash": "sha256:1a9489fc02d9c4df30dfabfa6e4c652917422d7db916b407aeb33de2a5b124e5"
+    },
+    {
+      "url": "https://opencode.ai/docs/commands/",
+      "local_path": "commands/index.md",
+      "status": "ok",
+      "source_hash": "sha256:c9dac1dda111fdba38895780e7c5014ca58965122a247adc31c6acceee90e8a3"
+    },
+    {
+      "url": "https://opencode.ai/docs/compaction/",
+      "local_path": "compaction/index.md",
+      "status": "ok",
+      "source_hash": "sha256:128af13661a2ccbb9019925f7f21858320ba2a58bebe9d33fd6776ea298432e2"
+    },
+    {
+      "url": "https://opencode.ai/docs/config/",
+      "local_path": "config/index.md",
+      "status": "ok",
+      "source_hash": "sha256:6d4d8e0ecc7466b15c434737883545527fbce7041aec0fee75bf22ffe2b00eed"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/",
+      "local_path": "console/index.md",
+      "status": "ok",
+      "source_hash": "sha256:5b8d74775c5091440fcd6beb510ab2f9ebbdbb3d9c654a1aef293d18239c8fba"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/api/",
+      "local_path": "console/api/index.md",
+      "status": "ok",
+      "source_hash": "sha256:9e5fde6bf5966124d6f5ab358d58d291376f94630b39ee22dfc134fa13e0feb2"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/api/inference/",
+      "local_path": "console/api/inference/index.md",
+      "status": "ok",
+      "source_hash": "sha256:3e4f439887e0433c5178ef86563a788948b885119638b05260c003618358165d"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/api/providers/",
+      "local_path": "console/api/providers/index.md",
+      "status": "ok",
+      "source_hash": "sha256:4d8eea8e003542e250db42e6b57df6b9eea9477e72ec92376db2dbd144e6a86b"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/billing/",
+      "local_path": "console/billing/index.md",
+      "status": "ok",
+      "source_hash": "sha256:83a12e82756da7591adc21de84f79b05451f09b2db1215f366ead5eded14a74c"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/budgets/",
+      "local_path": "console/budgets/index.md",
+      "status": "ok",
+      "source_hash": "sha256:c33889512a91d2a2c66ffca5f140e6f1a2e6b73cbe835496278220ae629a87a3"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/go/",
+      "local_path": "console/go/index.md",
+      "status": "ok",
+      "source_hash": "sha256:ae4b8acf1df7d9f0dd6c86f99a9e5d7ea865fcca4877793087b0326a920e31a8"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/",
+      "local_path": "console/harnesses/index.md",
+      "status": "ok",
+      "source_hash": "sha256:11e10188ae973e804c40dfe98e8a4b0e2c8ef89ee6546ce8d2ab82d06948725d"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/claude-code/",
+      "local_path": "console/harnesses/claude-code/index.md",
+      "status": "ok",
+      "source_hash": "sha256:e66bbe590a66ab488b11be81d752e617bcd9d6c5960dc058d4b8fe224c057ea1"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/codex/",
+      "local_path": "console/harnesses/codex/index.md",
+      "status": "ok",
+      "source_hash": "sha256:18b6cca33556dbfd54c00d4d84ae294fa2d82f6571e2ba55f4eebc6b740eae7e"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/hermes/",
+      "local_path": "console/harnesses/hermes/index.md",
+      "status": "ok",
+      "source_hash": "sha256:d139ca7c89e884090d79930bb82a56abf4f8bf94ce977c9f2503e9714527ad88"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/pi/",
+      "local_path": "console/harnesses/pi/index.md",
+      "status": "ok",
+      "source_hash": "sha256:d1161504d2470e6a39b4b33af31498db5b98319cbe9e1f26823d17c3396500ae"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/harnesses/raycast/",
+      "local_path": "console/harnesses/raycast/index.md",
+      "status": "ok",
+      "source_hash": "sha256:eec370ff4482f7e2dd8d7a734a918d8caa1c567d535c79ca8d7fc115acc24025"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/members/",
+      "local_path": "console/members/index.md",
+      "status": "ok",
+      "source_hash": "sha256:7164c0ea97654b7cce566d589166c0ed90a48d4e38c7dce491fb5ad1f6a99153"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/models/",
+      "local_path": "console/models/index.md",
+      "status": "ok",
+      "source_hash": "sha256:7eb1c281bc39a27650ba39d47ee7af8bc7ad7df236924d1324320bd5c66c87dd"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/providers/",
+      "local_path": "console/providers/index.md",
+      "status": "ok",
+      "source_hash": "sha256:8b2c090128878fcb4ec086e20801d7382dfdfb700716a25490c24c1ad31ebf7a"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/scim/",
+      "local_path": "console/scim/index.md",
+      "status": "ok",
+      "source_hash": "sha256:7896e3ab6ea9c3e08efea510866bf631660a234612b1c7c395e76c9a26321cd6"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/sso/",
+      "local_path": "console/sso/index.md",
+      "status": "ok",
+      "source_hash": "sha256:f004b67d1ef24114cb63efd3a37e094dc734f17d7b9380403f5ad0779548720f"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/websearch/",
+      "local_path": "console/websearch/index.md",
+      "status": "ok",
+      "source_hash": "sha256:a5b7b3e091d7b91e57b6c12a1a5d2e2778151a2a50edd6f2e8e781f8b804b338"
+    },
+    {
+      "url": "https://opencode.ai/docs/console/workspaces/",
+      "local_path": "console/workspaces/index.md",
+      "status": "ok",
+      "source_hash": "sha256:e3b82b3416b1e64e2a33cdc630b9a3a140bb4202f0ab6560ead106fa23e41921"
+    },
+    {
+      "url": "https://opencode.ai/docs/formatters/",
+      "local_path": "formatters/index.md",
+      "status": "ok",
+      "source_hash": "sha256:8082294d239a399e55616951a0518d349a714ba34041c47eb3aa13eb42c1fc25"
+    },
+    {
+      "url": "https://opencode.ai/docs/",
+      "local_path": "index.md",
+      "status": "ok",
+      "source_hash": "sha256:6cdeb5ff3b59930bf426f4c563e8e5bcb4135c56b8a63ce47b787c533f3c7606"
+    },
+    {
+      "url": "https://opencode.ai/docs/instructions/",
+      "local_path": "instructions/index.md",
+      "status": "ok",
+      "source_hash": "sha256:48f7b9812fc57a166b305d5a9c64febd78f2446b403cc1d6b9cd6da1d63ef46a"
+    },
+    {
+      "url": "https://opencode.ai/docs/mcp-servers/",
+      "local_path": "mcp-servers/index.md",
+      "status": "ok",
+      "source_hash": "sha256:f2b5da3576afa5fd764a979bc8ce8bafbe39252775f0836af8906f315360d495"
+    },
+    {
+      "url": "https://opencode.ai/docs/migrate-v1/",
+      "local_path": "migrate-v1/index.md",
+      "status": "ok",
+      "source_hash": "sha256:5c4f19aa7b16d25ef328097173e19bee5032c0a890e6625717c3bc32cebf44d3"
+    },
+    {
+      "url": "https://opencode.ai/docs/models/",
+      "local_path": "models/index.md",
+      "status": "ok",
+      "source_hash": "sha256:533ec23167b445fec082f5e24d7621d9977d01f0eabc35dc37868797c642bd17"
+    },
+    {
+      "url": "https://opencode.ai/docs/network/",
+      "local_path": "network/index.md",
+      "status": "ok",
+      "source_hash": "sha256:3d83e9802831cea6b2456a61db2b020b90493688886c517f5dca40d4478c9730"
+    },
+    {
+      "url": "https://opencode.ai/docs/permissions/",
+      "local_path": "permissions/index.md",
+      "status": "ok",
+      "source_hash": "sha256:ceb578f112d84ce0d8f9d25775cbb5893db5cfc9ceb3ca9620bf20abb1f0e79b"
+    },
+    {
+      "url": "https://opencode.ai/docs/plugins/",
+      "local_path": "plugins/index.md",
+      "status": "ok",
+      "source_hash": "sha256:7083383f1a149f4887a8cbaa806ae849910391f634368822344315279cd557af"
+    },
+    {
+      "url": "https://opencode.ai/docs/policies/",
+      "local_path": "policies/index.md",
+      "status": "ok",
+      "source_hash": "sha256:ebbfd395f209c6d457ca0cb359386fb5f0972eaeb1b2813b5e0fa4102a83f4c2"
+    },
+    {
+      "url": "https://opencode.ai/docs/providers/",
+      "local_path": "providers/index.md",
+      "status": "ok",
+      "source_hash": "sha256:b3b18400a1f4f320785fac00adc41dfb03469ac1ab92ac361f08945f17c3ab29"
+    },
+    {
+      "url": "https://opencode.ai/docs/references/",
+      "local_path": "references/index.md",
+      "status": "ok",
+      "source_hash": "sha256:a62fa3f4495bc9fad58cb5a92a09adeac8de67bbb1e7a83dba522b3569b0c501"
+    },
+    {
+      "url": "https://opencode.ai/docs/skills/",
+      "local_path": "skills/index.md",
+      "status": "ok",
+      "source_hash": "sha256:6b9ac051468fe13624fc377b70e5f17bd959e957d82110fdcaeffc585e149439"
+    },
+    {
+      "url": "https://opencode.ai/docs/snapshots/",
+      "local_path": "snapshots/index.md",
+      "status": "ok",
+      "source_hash": "sha256:9a730a042390c312a04979e1a54adead85045f14202d6da4d4a1fdac4252289f"
+    },
+    {
+      "url": "https://opencode.ai/docs/themes/",
+      "local_path": "themes/index.md",
+      "status": "ok",
+      "source_hash": "sha256:ef25937b992c7483b0c412aff76ad8654bd6a3521e0ed2c44f59106f414b92e7"
+    },
+    {
+      "url": "https://opencode.ai/docs/tools/",
+      "local_path": "tools/index.md",
+      "status": "ok",
+      "source_hash": "sha256:fe2de4daf2cc53529c2117b7bb5377f1730cc5a92119f43305e8f2049e6ada4a"
+    },
+    {
+      "url": "https://opencode.ai/docs/troubleshooting/",
+      "local_path": "troubleshooting/index.md",
+      "status": "ok",
+      "source_hash": "sha256:754f9485e251b2ebb3b54e60c274a668dd9e03d53fc27dbab7ae13845586dd65"
+    },
+    {
+      "url": "https://opencode.ai/docs/warming/",
+      "local_path": "warming/index.md",
+      "status": "ok",
+      "source_hash": "sha256:03b06523b60ea899535d8b3fe324c31ec4d35f1a8f0ef2f22c90214f00dad38e"
+    },
+    {
+      "url": "https://opencode.ai/docs/websearch/",
+      "local_path": "websearch/index.md",
+      "status": "ok",
+      "source_hash": "sha256:8dc1098d92e3c09942568d3899551f22674725ae3c98accab4d8328828773470"
+    }
+  ]
+}
